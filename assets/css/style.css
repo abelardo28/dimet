@@ -87,6 +87,7 @@ h6 {
 	font-weight: bold;
 }
 p {
+	font-size: 18px;
 	font-family: inherit;
 	font-weight: 400;
 	color: #6f6f6f;
@@ -113,6 +114,7 @@ ul {
 	margin-bottom: 0px;
 }
 li {
+	font-size: 18px;
 	list-style: none;
 }
 a {
@@ -314,7 +316,7 @@ section {
 	margin: 30px auto;
 }
 .heading p {
-	font-size: 15px;
+	font-size: 18px;
 	line-height: 24px;
 	color: #777777;
 }
@@ -769,7 +771,7 @@ header .quotes a:hover {
 	margin-top: 0px;
 }
 .who-we p {
-	font-size: 14px;
+	font-size: 18px;
 }
 .who-we .btn {
 	padding: 10px 30px;
