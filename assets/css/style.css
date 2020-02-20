@@ -1242,6 +1242,9 @@ header .quotes a:hover {
 	width: 100%;
 	text-decoration: none;
 }
+.cate li a.active{
+	color: #00ACD8;
+}
 .cate li span {
 	float: right;
 }
